@@ -1,0 +1,16 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 7/6/2007 16:35",
+	"instvars" : [
+		"name",
+		"icon",
+		"action" ],
+	"name" : "BAMenuEntry",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

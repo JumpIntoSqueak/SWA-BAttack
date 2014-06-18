@@ -1,0 +1,1 @@
+I am a Null Block representing that no block was found.

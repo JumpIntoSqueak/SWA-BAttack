@@ -1,0 +1,26 @@
+{
+	"category" : "SWA-BAttack-Playgrounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 6/21/2007 20:03",
+	"instvars" : [
+		"columns",
+		"cursor",
+		"statusDisplay",
+		"score",
+		"raisingDelay",
+		"gameIsOver",
+		"gameIsPaused",
+		"gameplayer",
+		"level",
+		"nextLevel",
+		"elapsedTime",
+		"lastFramesTime",
+		"lastFramesCount" ],
+	"name" : "BAAbstractPlayground",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

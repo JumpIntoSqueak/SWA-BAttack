@@ -1,0 +1,4 @@
+misc
+isFloating
+
+	^ true

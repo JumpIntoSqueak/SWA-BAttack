@@ -1,0 +1,20 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 6/15/2007 19:38",
+	"instvars" : [
+		"skin",
+		"menu",
+		"playgrounds",
+		"activeComponents",
+		"lastStep",
+		"width",
+		"bodyparts" ],
+	"name" : "BlockAttack",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

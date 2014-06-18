@@ -1,0 +1,16 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 2/21/2008 19:56",
+	"instvars" : [
+		"index",
+		"ground",
+		"playground" ],
+	"name" : "BAColumn",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

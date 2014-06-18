@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Playgrounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/19/2007 21:20",
+	"instvars" : [
+		"values" ],
+	"name" : "BASimulationPlayground",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractPlayground",
+	"type" : "normal" }

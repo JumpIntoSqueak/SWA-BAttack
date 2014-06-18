@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/20/2007 01:22",
+	"instvars" : [
+		 ],
+	"name" : "BASynchronizedBlock",
+	"pools" : [
+		 ],
+	"super" : "BABlock",
+	"type" : "normal" }

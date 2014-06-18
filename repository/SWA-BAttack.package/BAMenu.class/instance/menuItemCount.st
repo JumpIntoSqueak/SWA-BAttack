@@ -1,0 +1,4 @@
+accessing
+menuItemCount
+
+	^ entries size.

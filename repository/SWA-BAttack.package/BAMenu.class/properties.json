@@ -1,0 +1,21 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 7/6/2007 16:35",
+	"instvars" : [
+		"activeMenu",
+		"parentMenu",
+		"leftBorder",
+		"rightBorder",
+		"entries",
+		"selection",
+		"leftIndex",
+		"keyboardDictionary" ],
+	"name" : "BAMenu",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

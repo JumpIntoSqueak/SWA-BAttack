@@ -1,0 +1,1 @@
+Superclass for all objects moved in the playground.

@@ -1,0 +1,19 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/20/2007 01:23",
+	"instvars" : [
+		"id",
+		"count",
+		"password",
+		"columns",
+		"passwordHash",
+		"score" ],
+	"name" : "BAPuzzleLevel",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

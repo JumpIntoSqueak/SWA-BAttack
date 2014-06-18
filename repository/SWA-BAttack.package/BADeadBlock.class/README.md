@@ -1,0 +1,1 @@
+I am a dead block, disappearing after a short time

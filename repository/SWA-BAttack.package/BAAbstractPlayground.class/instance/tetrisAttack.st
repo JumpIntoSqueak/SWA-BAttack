@@ -1,0 +1,4 @@
+accessing
+tetrisAttack
+
+	^ owner owner.

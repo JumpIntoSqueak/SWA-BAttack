@@ -1,0 +1,1 @@
+I provide the possibilites to control a TACursor. Subclasses have to define the behavior.

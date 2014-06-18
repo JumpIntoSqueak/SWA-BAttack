@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Players",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/5/2007 15:52",
+	"instvars" : [
+		 ],
+	"name" : "BADoNothingPlayer",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractPlayer",
+	"type" : "normal" }

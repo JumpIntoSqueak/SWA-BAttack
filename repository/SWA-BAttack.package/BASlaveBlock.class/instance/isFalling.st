@@ -1,0 +1,4 @@
+accessing
+isFalling
+
+	^ master isFalling

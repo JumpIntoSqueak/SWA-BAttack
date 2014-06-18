@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"create" : "rkrk 5/9/2008 16:37",
+		"createPlayer1Keys" : "AT 7/15/2007 23:55",
+		"createPlayer2Keys" : "AT 7/15/2007 23:55" },
+	"instance" : {
+		"initialize" : "AT 7/20/2007 01:30",
+		"keyEvent:" : "AT 7/15/2007 23:55",
+		"nextIcon" : "rkrk 5/9/2008 16:37" } }

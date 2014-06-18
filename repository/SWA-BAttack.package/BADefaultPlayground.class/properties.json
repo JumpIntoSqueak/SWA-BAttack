@@ -1,0 +1,17 @@
+{
+	"category" : "SWA-BAttack-Playgrounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 6/21/2007 20:14",
+	"instvars" : [
+		"difficulty",
+		"bigBlocks",
+		"bigBlockDelay",
+		"colors" ],
+	"name" : "BADefaultPlayground",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractPlayground",
+	"type" : "normal" }

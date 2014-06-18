@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"action:" : "AT 7/3/2007 23:36",
+		"cursor" : "AT 7/3/2007 23:20",
+		"cursor:" : "AT 7/3/2007 23:20",
+		"doAction:" : "AT 7/3/2007 23:36",
+		"initialize" : "AT 7/3/2007 23:20",
+		"initializeActions" : "AT 7/1/2007 23:23",
+		"keyEvent:" : "NR 7/10/2007 20:07" } }

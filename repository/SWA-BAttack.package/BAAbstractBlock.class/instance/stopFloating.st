@@ -1,0 +1,4 @@
+accessing
+stopFloating
+
+	^ self subclassResponsibility 

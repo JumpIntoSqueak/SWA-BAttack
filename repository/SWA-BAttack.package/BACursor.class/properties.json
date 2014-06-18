@@ -1,0 +1,15 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 6/4/2007 18:36",
+	"instvars" : [
+		"xPos",
+		"yPos" ],
+	"name" : "BACursor",
+	"pools" : [
+		 ],
+	"super" : "BAGridMorph",
+	"type" : "normal" }

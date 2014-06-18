@@ -1,0 +1,4 @@
+accessing
+isPaused
+
+	^ gameIsPaused

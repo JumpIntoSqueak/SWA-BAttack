@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actionAtKey:" : "AT 7/3/2007 23:35",
+		"addKeys:forAction:" : "NR 6/21/2007 14:00",
+		"clearKeys" : "AT 7/3/2007 23:21",
+		"initialize" : "AT 7/3/2007 23:29",
+		"keyEvent:" : "NR 7/10/2007 20:07",
+		"keyboardDictionary" : "AT 7/3/2007 23:21",
+		"keyboardDictionary:" : "AT 7/3/2007 23:21",
+		"removeKey:" : "AT 7/3/2007 23:32",
+		"setFromArray:" : "AT 7/3/2007 23:28",
+		"setPlayer1Initialization" : "AT 2/21/2008 19:36",
+		"setPlayer2Initialization" : "AT 2/21/2008 19:36" } }

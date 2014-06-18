@@ -1,0 +1,15 @@
+{
+	"category" : "SWA-BAttack-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"password",
+		"keys" ],
+	"name" : "BAPasswordDialog",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractDialog",
+	"type" : "normal" }

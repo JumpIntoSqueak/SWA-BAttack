@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 6/4/2007 17:51",
+	"instvars" : [
+		"type" ],
+	"name" : "BAColoredBlock",
+	"pools" : [
+		 ],
+	"super" : "BABlock",
+	"type" : "normal" }

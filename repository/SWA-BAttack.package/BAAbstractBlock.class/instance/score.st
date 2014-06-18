@@ -1,0 +1,4 @@
+accessing
+score
+
+	^ 0

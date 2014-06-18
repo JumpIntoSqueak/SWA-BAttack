@@ -1,0 +1,15 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NR 6/14/2007 21:42",
+	"instvars" : [
+		"fields",
+		"rules" ],
+	"name" : "BAStatusDisplay",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

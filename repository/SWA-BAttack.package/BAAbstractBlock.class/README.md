@@ -1,0 +1,1 @@
+Superclass for all objects representing a block.

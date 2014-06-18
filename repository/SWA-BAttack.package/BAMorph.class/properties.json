@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 6/5/2007 13:01",
+	"instvars" : [
+		"imageName" ],
+	"name" : "BAMorph",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

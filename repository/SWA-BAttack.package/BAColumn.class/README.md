@@ -1,0 +1,1 @@
+I represent a Column of Boxes on the BAPlayGround.

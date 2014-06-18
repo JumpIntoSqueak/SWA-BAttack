@@ -1,0 +1,4 @@
+accessing
+isFloating
+
+	^ master isFloating

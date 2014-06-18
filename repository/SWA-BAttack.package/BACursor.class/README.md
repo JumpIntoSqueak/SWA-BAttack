@@ -1,0 +1,1 @@
+I am an element movable by the user to change stones and so on.

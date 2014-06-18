@@ -1,0 +1,1 @@
+I define rules for a puzzle game. There are no new lines appearing, but the playground has to be cleared with a limited amount of swap actions.

@@ -1,0 +1,8 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "AT 7/19/2007 20:36",
+		"isFloating" : "AT 7/20/2007 01:13",
+		"step:" : "AT 7/19/2007 20:25",
+		"vanishAfter:" : "AT 7/19/2007 20:32" } }

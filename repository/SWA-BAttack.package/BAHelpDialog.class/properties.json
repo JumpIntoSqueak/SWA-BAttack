@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"pageNumber" ],
+	"name" : "BAHelpDialog",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractDialog",
+	"type" : "normal" }

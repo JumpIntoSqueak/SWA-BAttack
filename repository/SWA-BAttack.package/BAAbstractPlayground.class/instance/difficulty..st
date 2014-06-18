@@ -1,0 +1,2 @@
+game control
+difficulty: aSymbol

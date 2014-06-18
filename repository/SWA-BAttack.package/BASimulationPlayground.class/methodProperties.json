@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"createWith:stepBlock:" : "AT 2/21/2008 19:53",
+		"default" : "NR 6/21/2007 14:47",
+		"initFourLines" : "AT 6/21/2007 20:16",
+		"stepRandomSwap" : "AT 7/5/2007 16:05" },
+	"instance" : {
+		"checkGameOver" : "AT 7/3/2007 00:30",
+		"delayRaising:" : "AT 7/3/2007 00:30",
+		"fallingSpeed" : "AT 7/20/2007 01:12",
+		"getValue:" : "AT 7/19/2007 21:23",
+		"initialize" : "AT 7/8/2007 17:19",
+		"initializeInstanceVars" : "AT 7/19/2007 21:28",
+		"nextRandomBlockBut:" : "AT 2/21/2008 19:45",
+		"notifyBlockSweepesAt:" : "AT 7/19/2007 20:57",
+		"pause" : "AT 7/3/2007 00:30",
+		"raisingSpeed" : "AT 7/8/2007 17:18",
+		"setValue:to:" : "AT 7/3/2007 00:29",
+		"speedFactor" : "AT 7/3/2007 00:32",
+		"step:" : "AT 7/8/2007 17:20" } }

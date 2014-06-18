@@ -1,0 +1,17 @@
+{
+	"category" : "SWA-BAttack-Playgrounds",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/5/2007 15:54",
+	"instvars" : [
+		"swapCount",
+		"puzzleLevel",
+		"history",
+		"blockMoved" ],
+	"name" : "BAPuzzlePlayground",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractPlayground",
+	"type" : "normal" }

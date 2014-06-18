@@ -1,0 +1,4 @@
+accessing
+nextIcon
+
+	^ self subclassResponsibility 

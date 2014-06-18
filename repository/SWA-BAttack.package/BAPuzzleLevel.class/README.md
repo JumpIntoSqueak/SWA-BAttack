@@ -1,0 +1,1 @@
+I represent a PuzzleLevel, which can be loaded by a TAPuzzelPlayground.

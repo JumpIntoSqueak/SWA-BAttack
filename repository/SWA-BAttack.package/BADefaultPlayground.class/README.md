@@ -1,0 +1,1 @@
+I define the rules for an endless game. It stops only if the blocks reach my top.

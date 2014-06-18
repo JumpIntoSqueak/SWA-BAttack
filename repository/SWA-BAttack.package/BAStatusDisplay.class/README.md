@@ -1,0 +1,1 @@
+I show scores and other information.

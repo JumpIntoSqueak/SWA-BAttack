@@ -1,0 +1,2 @@
+notifies
+notifyBlockMoved

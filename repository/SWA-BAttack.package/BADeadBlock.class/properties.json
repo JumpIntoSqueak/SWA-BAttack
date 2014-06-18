@@ -1,0 +1,15 @@
+{
+	"category" : "SWA-BAttack-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/19/2007 20:35",
+	"instvars" : [
+		"delay",
+		"score" ],
+	"name" : "BADeadBlock",
+	"pools" : [
+		 ],
+	"super" : "BABlock",
+	"type" : "normal" }

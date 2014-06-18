@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Players",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 7/5/2007 15:53",
+	"instvars" : [
+		"keyboardDictionary" ],
+	"name" : "BAHumanPlayer",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractPlayer",
+	"type" : "normal" }

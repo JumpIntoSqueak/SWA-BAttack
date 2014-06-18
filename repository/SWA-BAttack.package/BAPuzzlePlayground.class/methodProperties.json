@@ -1,0 +1,26 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkGameOver" : "AT 7/18/2007 01:31",
+		"checkWin" : "AT 7/16/2007 21:53",
+		"difficulty:" : "AT 2/21/2008 19:36",
+		"fallingSpeed" : "AT 7/16/2007 22:20",
+		"gameOver" : "AT 7/9/2007 23:14",
+		"gotoLevel:" : "AT 2/21/2008 19:36",
+		"initialize" : "AT 2/21/2008 19:34",
+		"levelUp" : "AT 7/3/2007 00:21",
+		"loadPuzzle:" : "AT 2/21/2008 19:45",
+		"nextLine" : "AT 7/9/2007 23:22",
+		"nextRandomBlockBut:" : "AT 2/21/2008 19:45",
+		"notifyBlockMoved" : "AT 7/19/2007 21:31",
+		"raisingSpeed" : "AT 7/3/2007 00:29",
+		"saveState" : "AT 7/9/2007 23:23",
+		"speedFactor" : "AT 7/3/2007 00:29",
+		"stepBack" : "AT 7/9/2007 23:12",
+		"swapCount" : "AT 7/3/2007 00:19",
+		"swapCount:" : "AT 7/3/2007 00:19",
+		"swapRightAt:" : "AT 7/20/2007 00:21",
+		"updateCountDisplay:" : "AT 7/16/2007 21:52",
+		"updatePasswordDisplay:" : "AT 7/16/2007 09:55",
+		"updateStatusDisplay" : "AT 7/16/2007 10:15" } }

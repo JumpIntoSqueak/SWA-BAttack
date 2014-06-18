@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"create" : "rkrk 5/9/2008 16:40",
+		"createForPuzzleGame" : "AT 7/16/2007 11:08" },
+	"instance" : {
+		"initialize" : "AT 2/21/2008 19:36",
+		"keyEvent:" : "AT 7/20/2007 01:31",
+		"nextIcon" : "rkrk 5/9/2008 16:40" } }

@@ -1,0 +1,1 @@
+I am a Null Block representing that the desired position is blocked.

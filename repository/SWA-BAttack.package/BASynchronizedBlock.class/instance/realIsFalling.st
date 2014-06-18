@@ -1,0 +1,4 @@
+accessing
+realIsFalling
+
+	^ super isFalling

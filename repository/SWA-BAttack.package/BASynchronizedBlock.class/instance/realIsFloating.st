@@ -1,0 +1,4 @@
+accessing
+realIsFloating
+
+	^ super isFloating

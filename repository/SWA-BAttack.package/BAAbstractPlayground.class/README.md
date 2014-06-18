@@ -1,0 +1,1 @@
+I am the field in which the game is played. I provide all methods for a working game. However, some rules have to be defined by subclasses.

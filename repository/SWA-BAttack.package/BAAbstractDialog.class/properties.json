@@ -1,0 +1,16 @@
+{
+	"category" : "SWA-BAttack-Dialogs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parentMenu",
+		"action",
+		"icon" ],
+	"name" : "BAAbstractDialog",
+	"pools" : [
+		 ],
+	"super" : "BAMorph",
+	"type" : "normal" }

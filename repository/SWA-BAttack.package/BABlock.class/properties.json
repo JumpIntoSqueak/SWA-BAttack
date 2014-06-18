@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 5/31/2007 10:11",
+	"instvars" : [
+		"fallingDelay" ],
+	"name" : "BABlock",
+	"pools" : [
+		 ],
+	"super" : "BAAbstractBlock",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "SWA-BAttack-Blocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "AT 6/21/2007 00:14",
+	"instvars" : [
+		 ],
+	"name" : "BABlockedBlock",
+	"pools" : [
+		 ],
+	"super" : "BAEmptyBlock",
+	"type" : "normal" }
