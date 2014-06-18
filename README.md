@@ -18,6 +18,6 @@ Docker container.
 
 The original content of this repository was created by:
 
-Authors: David Jäger, Marco Krüger, Mark Oelze, Max Plauth, Nico Rehwaldt, David Schwalb, and Arian Treffer (2007)
-License: The MIT License ([www.opensource.org](http://www.opensource.org/licenses/mit-license.php))
-Original Source: [BlockAttack_OLPC_080509.sar](http://swa1.hpi.uni-potsdam.de/projects/olpc/media/BlockAttack_OLPC_080509.sar)
+Authors: David Jäger, Marco Krüger, Mark Oelze, Max Plauth, Nico Rehwaldt, David Schwalb, and Arian Treffer (2007)  
+License: The MIT License ([www.opensource.org](http://www.opensource.org/licenses/mit-license.php))  
+Original Source: [BlockAttack_OLPC_080509.sar](http://swa1.hpi.uni-potsdam.de/projects/olpc/media/BlockAttack_OLPC_080509.sar)  
