@@ -13,6 +13,26 @@ Docker container.
    repository.
 4. Add ressources to the Dockerfile e.g.
 5. Setup Monticello Postscript to load your application.
+6. Finally create a .packages file with one per package per line you want to 
+   load from the filetree repository. Create a jumpinto.st file to install 
+   dependencies beforehand.
+
+## Example .packages
+
+A file with one package per line to be loaded.
+
+    SWA-BAttack
+
+## Example jumpinto.st
+
+Here we load the baseline of Vivide with all its given dependencies from the
+filetree repository in the local git checkout (/checkout).
+
+    Metacello new
+      baseline: 'Vivide';
+      repository: 'filetree://checkout/repository';
+      load.
+
 
 ## About BlockAttack
 
